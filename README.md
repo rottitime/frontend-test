@@ -29,6 +29,7 @@ Here are some ideas to take strongly into consideration
 - Make your coding clean for your fellow developers
 - Show your preference between Typescript or Javascript
 - Have you 'tested' your code?
+- Optimise your website for speed. Mobile users may not have a fast connection
 
 ## Submitting your test
 
