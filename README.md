@@ -2,8 +2,6 @@
 
 Develop a responsive application that fetches live data on books and users as per the screenshots below.
 
-> Ensure your list of user box has a scroll bar
-
 ## Designs
 
 ### Desktop
