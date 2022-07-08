@@ -21,7 +21,8 @@ Develop a responsive application that fetches live data on books and users as pe
 
 Here are some ideas to take strongly into consideration
 
-- Develop the website with the best responsive techniques
+- Develop the website with the best responsive techniques. Will you be coding for mobile or desktop first?
+- What is the cleanest way to style your app?
 - Make your app accessible to all users and devices
 - Use the latest ECMAScript techniques
 - Make sure your users know tha app is awaiting live data
