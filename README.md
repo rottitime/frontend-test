@@ -2,9 +2,17 @@
 
 Develop a responsive application that fetches live data on books and users as per the screenshots below.
 
-<img src="desktop.jpg" alt='desktop' />
+## Designs
 
----
+### Desktop
+
+<img src="https://raw.githubusercontent.com/rottitime/frontend-test/main/desktop.png" alt='desktop' />
+
+### Mobile
+
+## <img src="https://raw.githubusercontent.com/rottitime/frontend-test/main/mobile.png" alt='mobile' />
+
+## Api Endpoints
 
 # Getting Started with Create React App
 
