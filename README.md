@@ -1,3 +1,11 @@
+# Frontend Challenge
+
+Develop a responsive application that fetches live data on books and users as per the screenshots below.
+
+<img src="desktop.jpg" alt='desktop' />
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
