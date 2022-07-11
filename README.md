@@ -12,6 +12,11 @@ Develop a responsive application that fetches live data on books and users as pe
 
 ## <img src="https://raw.githubusercontent.com/rottitime/frontend-test/main/mobile.png" alt='mobile' />
 
+## Assets
+
+- Icons: `/src/images`
+- Backgrounds: `/public/images`
+
 ## Api Endpoints
 
 - List of users: `https://jsonplaceholder.typicode.com/users`
@@ -23,7 +28,7 @@ Here are some ideas to take strongly into consideration
 
 - Develop the website with the best responsive techniques. Will you be coding for mobile or desktop first?
 - What is the cleanest way to style your app?
-- Make your app accessible to all users and devices
+- Make your app `accessible` to all users and devices
 - Use the latest ECMAScript techniques
 - Make sure your users know tha app is awaiting live data
 - Make your coding clean for your fellow developers
